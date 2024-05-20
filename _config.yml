@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Carlos / Home Page"
 title_separator          : "-"
-name                     : &name "Carlos"
-description              : &description "There's still a long way to go"
+name                     : &name 
+description              : &description 
 url                      : https://cynicarlos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cynicarlos/cynicarlos.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Carlos"
   pronouns         : 
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "There's still a long way to go"
   location         : "Earth"
   employer         : 
   uri              : 
